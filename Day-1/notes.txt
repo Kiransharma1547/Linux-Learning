@@ -1,0 +1,11 @@
+Practiced Linux basic commands:
+- pwd
+- ls
+- ls -a
+- ls -l
+- man
+
+Learned about:
+- Hidden files
+- File permissions
+- Manual pages
