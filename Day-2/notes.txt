@@ -1,0 +1,28 @@
+Day 2 Linux Practice
+
+Commands Practiced:
+
+* ls -l
+* ls -a
+* ls -lah
+* ls -lhsr
+* ls -lt
+* ls -ltr
+* ls *.txt
+* ls data*
+* ls --color=never
+* ls --color=always
+* ls --color=auto
+* ls -l */
+* ls | cowsay
+
+Learned About:
+
+* Linux file permissions
+* File listing formats
+* Human-readable file sizes
+* Sorting files by time
+* Wildcards and filtering
+* Terminal output customization
+* Command piping
+* Difference between files and directories
