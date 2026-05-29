@@ -70,24 +70,32 @@ mkdir -p maze/twisty/little/passages
 * Difference between files and directories
 
 ---
+---
 
-# Repository Structure
+# Day 3 Progress
 
-```bash
-Linux-Learning/
-│
-├── README.md
-│
-├── Day-1/
-│   ├── notes.txt
-│   ├── linux-basic-commands.png
-│   ├── directory-navigation.png
-│   └── nested-directories-maze.png
-│
-└── Day-2/
-    ├── notes.txt
-    ├── linux-permissions.png
-    ├── linux-sorting-filtering.png
-    ├── linux-wildcards.png
-    └── linux-cowsay.png
-```
+## Commands Practiced
+
+* touch
+* file
+* cat
+* cp
+* mv
+* rm
+* rm -f
+* rm -i
+* rm -r
+* history
+* !!
+* less
+
+## Key Learnings
+
+* File creation and file types
+* File copying and renaming
+* Safe deletion practices
+* Interactive and forced removal
+* Command history usage
+* Viewing and handling text files
+* Difference between files and directories
+
