@@ -1,0 +1,30 @@
+Day 3 Linux Practice
+
+Commands Practiced:
+
+* touch
+* file
+* cat
+* cp
+* mv
+* rm
+* rm -f
+* rm -i
+* rm -r
+* history
+* !!
+* less
+
+Learned About:
+
+* Creating files
+* Checking file types
+* Viewing file contents
+* Writing content using cat
+* Copying files
+* Moving and renaming files
+* Safe file deletion
+* Interactive and forced remove operations
+* Viewing command history
+* Repeating previous commands
+* Difference between files and directories
