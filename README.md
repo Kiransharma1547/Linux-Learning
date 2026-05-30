@@ -99,3 +99,36 @@ mkdir -p maze/twisty/little/passages
 * Viewing and handling text files
 * Difference between files and directories
 
+---
+
+# Day 4 Progress
+
+## Topics Practiced
+
+* Python Basics
+* Git Basics
+
+## Python Concepts
+
+* Variables
+* Loops
+* Conditions
+* Functions
+* Output statements
+
+## Git Commands Practiced
+
+* git init
+* git status
+* git add
+* git commit
+* git config
+* git config --list
+
+## Key Learnings
+
+* Initializing Git repositories
+* Creating commits
+* Configuring Git user identity
+* Basic Python program execution
+* Functions and loops in Python
