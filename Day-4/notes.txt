@@ -1,0 +1,33 @@
+Day 4 Learning
+
+Topics Practiced:
+
+* Python Basics
+* Git Basics
+
+Python Concepts Practiced:
+
+* print()
+* variables
+* for loop
+* range()
+* if condition
+* functions using def
+
+Git Commands Practiced:
+
+* git init
+* git status
+* git add
+* git commit
+* git config --global user.name
+* git config --global user.email
+* git config --list
+
+Learned About:
+
+* Initializing a Git repository
+* Tracking files with Git
+* Creating first commits
+* Configuring Git username and email
+* Basic Python syntax and execution
