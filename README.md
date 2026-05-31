@@ -132,3 +132,25 @@ mkdir -p maze/twisty/little/passages
 * Configuring Git user identity
 * Basic Python program execution
 * Functions and loops in Python
+
+  ---
+
+# Day 5 Progress
+
+## Python Concepts Practiced
+
+* lower()
+* endswith()
+* for loop
+* if / elif / else
+* lists
+* string handling
+
+## Key Learnings
+
+* String manipulation
+* File extension checking
+* Conditional decision making
+* Looping through lists
+* Basic file categorization logic
+
