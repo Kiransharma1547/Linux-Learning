@@ -1,0 +1,33 @@
+Day 5 Learning
+
+Python Concepts Practiced:
+
+* lower()
+* endswith()
+* if / elif / else
+* for loop
+* lists
+* string handling
+
+Hands-on Practice:
+
+* Converted strings to lowercase
+* Checked file extensions
+* Categorized files by type
+* Used loops with conditions
+
+Example File Types Checked:
+
+* .jpg
+* .mp4
+* .pdf
+* .txt
+* .py
+
+Key Learnings:
+
+* String manipulation in Python
+* Conditional logic
+* Looping through collections
+* Basic file categorization logic
+* Writing structured Python programs
